@@ -1,0 +1,5 @@
+../Core/Src/SerialFrame.c:42:6:SerialFrame_Init	24	static
+../Core/Src/SerialFrame.c:64:5:SerialFrame_Add_TX	32	static
+../Core/Src/SerialFrame.c:90:5:SerialFrame_Add_RX	32	static
+../Core/Src/SerialFrame.c:116:6:SerialFrame_Transmit	24	static
+../Core/Src/SerialFrame.c:138:6:SerialFrame_Receive	24	static

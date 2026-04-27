@@ -1,0 +1,8 @@
+../Core/Src/main.c:120:5:main	1
+../Core/Src/main.c:135:6:SystemClock_Config	3
+../Core/Src/main.c:164:13:Init	6
+../Core/Src/main.c:277:13:Update	6
+../Core/Src/main.c:359:6:HAL_TIM_PeriodElapsedCallback	2
+../Core/Src/main.c:364:6:HAL_UART_RxCpltCallback	1
+../Core/Src/main.c:368:6:HAL_TIM_IC_CaptureCallback	1
+../Core/Src/main.c:374:6:Error_Handler	1
